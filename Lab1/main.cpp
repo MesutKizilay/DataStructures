@@ -1,6 +1,5 @@
 /*
-* @author: 152120181058 Mine ÇAKIR
-* @author: 152120171104 Ezgi ÖZDIKYAR
+* @author: 152120181058 Mine Ã‡AKIR
 * @brief: This program finds how many blobs in file with using recursive functions.
 * @date:28/10/2020
 */
